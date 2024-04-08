@@ -30,6 +30,10 @@ button.login {
   transition: 0.5s;
 }
 
+.enter-options {
+  display: flex;
+}
+
 button.login:hover {
   background: black;
   color: white;
